@@ -1,1 +1,8 @@
-U2VudGVuY2U6IHBha2lzdGFuIGlzIGEgYmVhdXRpZnVsIGNvdW50cnkgd2l0aCByaWNoIGN1bHR1cmUgYW5kIGhpc3RvcnkKVG90YWwgV29yZHM6IDEwClRvdGFsIENoYXJhY3RlcnM6IDYxCkxvbmdlc3QgV29yZDogYmVhdXRpZnVsClNob3J0ZXN0IFdvcmQ6IGEKTnVtYmVyIG9mIFZvd2VsczogMjAKVW5pcXVlIFdvcmRzOiB7J3JpY2gnLCAnaGlzdG9yeScsICd3aXRoJywgJ2NvdW50cnknLCAnYmVhdXRpZnVsJywgJ3Bha2lzdGFuJywgJ2N1bHR1cmUnLCAnYScsICdhbmQnLCAnaXMnfQpBbHBoYWJldGljYWwgT3JkZXI6IFsnYScsICdhbmQnLCAnYmVhdXRpZnVsJywgJ2NvdW50cnknLCAnY3VsdHVyZScsICdoaXN0b3J5JywgJ2lzJywgJ3Bha2lzdGFuJywgJ3JpY2gnLCAnd2l0aCddCg==
+Sentence: pakistan is a beautiful country with rich culture and history
+Total Words: 10
+Total Characters: 61
+Longest Word: beautiful
+Shortest Word: a
+Number of Vowels: 20
+Unique Words: {'rich', 'history', 'with', 'country', 'beautiful', 'pakistan', 'culture', 'a', 'and', 'is'}
+Alphabetical Order: ['a', 'and', 'beautiful', 'country', 'culture', 'history', 'is', 'pakistan', 'rich', 'with']
