@@ -1,1 +1,14 @@
-LS0tIFNob3BwaW5nIEJpbGwgU3VtbWFyeSAtLS0Kc2hvZXMgLSBUb3RhbDogUnMuIDQwMDAuMApqZWFucyAtIFRvdGFsOiBScy4gNTAwMC4wCnNoaXJ0IC0gVG90YWw6IFJzLiAxNTAwLjAKcGVyZnVtZSAtIFRvdGFsOiBScy4gMzUwMC4wCnNvY2tzIC0gVG90YWw6IFJzLiAxMDAwLjAKRGlzY291bnQ6IC1Scy4gMTUwMC4wCkZpbmFsIEJpbGw6IFJzLiAxMzUwMC4wCk1vc3QgRXhwZW5zaXZlIFByb2R1Y3Q6IHNob2VzIChScy4gNDAwMC4wKQo=
+--------------------------------------------------
+                  SHOPPING BILL                   
+--------------------------------------------------
+Product 1: Rs. 2500.00
+Product 2: Rs. 3000.00
+Product 3: Rs. 1500.00
+Product 4: Rs. 4000.00
+Product 5: Rs. 1000.00
+--------------------------------------------------
+Subtotal:  Rs. 12000.00
+Discount:  Rs. 1200.00 (10%)
+--------------------------------------------------
+Total Bill: Rs. 10800.00
+--------------------------------------------------
